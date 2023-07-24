@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hey, I'm Barrell, currently working with Next.js as a full-stack software engineer.<br><br>My current hobby project is <a href="https://github.com/barrelltv/Corallium">Corallium</a>, a highly customizable Corallium (or startpage / application dashboard) with Docker and service API integrations.</p>
+<p align="left">Hello, I Go By Barrell, Currently Working With Node.js Designing Discord Bots.<br><br>My Current Hobby Project Is My Discord Bot <a href="https://github.com/barrelltv/Corallium">Corallium</a>, Which Is A Highly Customizable Discord Bot. I Have Added Tons Of Slash Commands And A Complete Dashboard That Uses All The Data And Role From You Discord To Help You Setup The Bot. Everything is Storaged With MongoDb Also Corallium Has Over 100+ Commands!</p>
 
 ###
 
@@ -68,10 +68,9 @@
 ###
 
 <div align="left">
-<a href="mailto:Barrell+gh@phelps.io" title="Email Me"><img src="https://img.shields.io/badge/Email - Barrell+gh@phelps.io-blue?logo=gmail&logoColor=white" alt="Barrell+gh@phelps.io"></a>
-<a href="https://www.linkedin.com/in/phelpsBarrell/" title="My LinkedIn Profile"><img src="https://img.shields.io/badge/Linkedin - phelpsBarrell-blue?logo=linkedin&logoColor=white" alt="Linkedin - phelpsBarrell"></a>
-<img src="https://img.shields.io/badge/Discord - phelps%230001-blue?logo=discord&logoColor=white" alt="Barrell+gh@phelps.io">
-<a href="https://paypal.me/phelpsBarrell" title="Send me money"><img src="https://img.shields.io/badge/PayPal - paypal@phelps.io-blue?logo=paypal&logoColor=white" alt="Linkedin - phelpsBarrell"></a>
+<a href="mailto:barrell283@gmail.com" title="Email Me"><img src="https://img.shields.io/badge/Email - barrell283@gmail.com-blue?logo=gmail&logoColor=white" alt="barrell283@gmail.com"></a>
+<img src="https://img.shields.io/badge/Discord - barrell-blue?logo=discord&logoColor=white" alt="barrell">
+<a href="https://www.paypal.com/donate/?hosted_button_id=V3WYJZF97SAZJ" title="Send me money"><img src="https://img.shields.io/badge/PayPal - Click Me-blue?logo=paypal&logoColor=white" alt="Linkedin - phelpsBarrell"></a>
 </div>
 
 ###
