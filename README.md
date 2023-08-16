@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=BarrellTv" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=BarrellTv" height="150" alt="languages graph"  />
 </div>
-<div style="text-align:center; border: 1px solid #ddd; padding: 10px; margin: 20px 0;">
+<div align="center">
     <figure>
         <embed src="https://wakatime.com/share/@ba8e7d53-aab5-449c-9b4b-0b4571245f97/5ffa878c-7e0d-43c1-8457-fe54fad34cb2.svg" width="100%" />
     </figure>
