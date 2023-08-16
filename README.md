@@ -20,7 +20,8 @@
 ###
 
 <div align="center">
-  <embed src="https://wakatime.com/share/@ba8e7d53-aab5-449c-9b4b-0b4571245f97/5ffa878c-7e0d-43c1-8457-fe54fad34cb2.svg" width="100%" />
+  <a href="https://wakatime.com">
+  <img src="https://wakatime.com/share/@ba8e7d53-aab5-449c-9b4b-0b4571245f97/dc36cea8-7b36-4189-9cd0-9f7f959818e0.png" /></a>
 </div>
 
 ###
