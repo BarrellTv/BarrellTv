@@ -133,7 +133,7 @@
       <h3 align="center">🤖 Corallium</h3>
       <p align="center">
         <a href="https://github.com/BarrellTv/Corallium">
-          <img src="https://img.shields.io/badge/View%20Repo-Corallium-5865F2?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="[https://img.shields.io/badge/View%20Repo-Corallium-5865F2?style=for-the-badge&logo=github&logoColor=white](https://wakatime.com/badge/user/ba8e7d53-aab5-449c-9b4b-0b4571245f97/project/5b0bbec2-1292-43a3-9b45-545537085ab6.svg)" />
         </a>
         &nbsp;
         <a href="https://bot.coralliumstudios.net">
